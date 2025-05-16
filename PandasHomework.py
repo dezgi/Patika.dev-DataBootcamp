@@ -1,9 +1,8 @@
 import pandas as pd
 import numpy as np
 
-#csv yükleme ve birkaç satırı okuma
-
-dataset = pd.read_csv("C:\\Users\\ezgi.disbudak\\Desktop\\Ezgi\\PatikaDevDataEğitim\\Week3\\Titanic_dataset.csv")
+# read csv
+dataset = pd.read_csv("Titanic_dataset.csv")
 dataset.head()
 
 # 1. Kazada ölenlerin yaş ortalamasını bulunuz
