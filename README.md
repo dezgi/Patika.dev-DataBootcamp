@@ -1,7 +1,7 @@
-1. Bitirme Prjesi
+Bitirme Projesi
 
-Seçilen Veri Seti: Airline Passenger Satisfaction Dataset
-Kullanılan kütüphaneler: pandas,numpy, matpilot, seaborn
+- Seçilen Veri Seti: Airline Passenger Satisfaction Dataset
+- Kullanılan kütüphaneler: pandas,numpy, matpilot, seaborn
 
 1. İstatiksel Özet
      Sayısal değişkenler için ortalama, medyan, standard sapma, minimum ve maksimum değeler hesaplandı.
